@@ -103,8 +103,8 @@ i{
     }
     .nav-links{
         position: absolute;
-        top: 8vh;
-        height: 92vh;
+        top: 64px;
+        height: calc(100vh - 65px);
         right: 0;
         background-color: hsla(221, 14%, 31%, 50%);
         display: flex;
